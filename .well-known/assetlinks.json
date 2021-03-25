@@ -1,0 +1,5 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target" : { "namespace": "android_app", "package_name": "de.immotours.immotoursexpress",
+               "sha256_cert_fingerprints": ["DA:D2:0C:E0:CB:98:E2:52:C7:ED:A2:CF:9B:5F:48:76:E3:E8:50:EB:CA:4E:B5:11:57:0F:F3:DE:C9:F1:8E:8E"] }
+}]
