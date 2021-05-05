@@ -1,0 +1,22 @@
+{
+  "leftTitle" : "<b><div>GEBEN SIE HIER</div><div>IHRE DATEN EIN</div></b>",
+  "area" : "Ackerfläche",
+  "sowingRate" : "Aussaatstärke",
+  "estimatedReturn" : "Erwarteter Ertrag",
+  "forecastPrice" : "Prognostizierter Verkaufspreis",
+  "costs" : "Kosten:",
+  "additionalYield" : "Mehr Ertrag durch <div style='font-weight: 500; display:inline;'>GRAIN</div>GUARD&reg;",
+  "rightTitle" : "<div><b>IHR MEHRERLÖS</b> </div><div><b>MIT </b>GRAIN<b>GUARD&reg;</b></div>",
+  "yieldInfo" : "Ergebnisse aus Parzellenversuchen der letzten drei Jahre ergeben, dass durchschnittlich 4 % Mehr-Ertrag möglich ist!",
+  "profitInfo" : "Rein finanziell würden Sie bereits ab diesem Mehr-Ertrag profitieren!",
+  "profitThreshold" : "Gewinnschwelle (%)",
+  "additionalYieldTons1" : "möglicher",
+  "additionalYieldTons2" : "MEHR-ERTRAG (t)",
+  "additionalYieldEuro1" : "möglicher",
+  "additionalYieldEuro2" : "MEHR-GEWINN (€)",
+  "more" : "<b>Was spricht noch für </b>GRAIN<b>GUARD&reg;?</b>",
+  "print" : "Druckversion per E-Mail zusenden:",
+  "dataProtection" : "Ich habe die <a target='_blank' rel='noopener noreferrer'  href='https://seedforward.com/de/about/seedx/datenschutzerklaerung-seedx/''>Datenschutzerklärung</a> gelesen und stimme ihr zu.</label></p><br>.",
+  "send" : "Ergebnis senden",
+  "finePrint" : "* Gewährleistung für die Angaben ausgeschlossen, da die Ergebnisse standort- und witterungsbedingt abweichen können."
+}
