@@ -1,0 +1,22 @@
+{
+  "leftTitle" : "<b><div>ENTER YOUR</div><div>DATES HERE</div></b>",
+  "area" : "Arable land",
+  "sowingRate" : "Seeding rate",
+  "estimatedReturn" : "Expected yield",
+  "forecastPrice" : "Expected selling price",
+  "costs" : "Costs:",
+  "additionalYield" : "Additional yield with <div style='font-weight: 500; display:inline;'>GRAIN</div>GUARD&reg;",
+  "rightTitle" : "<div><b>YOUR PROFIT</b> </div><div><b>WITH </b>GRAIN<b>GUARD®</b></div>",
+  "yieldInfo" : "Results from plot trials over the last 3 years show that an everage of 4 % additional yield is possible.",
+  "profitInfo" : "Financially, you would already have a benefit from this additional yield.",
+  "profitThreshold" : "Break-Even (%)",
+  "additionalYieldTons1" : "potential",
+  "additionalYieldTons2" : "HIGHER YIELD (t)",
+  "additionalYieldEuro1" : "potential",
+  "additionalYieldEuro2" : "HIGHER PROFIT (€)",
+  "more" : "<b>Which additional advantages does </b>GRAIN<b>GUARD® have?</b>",
+  "print" : "Send print version by e-mail:",
+  "dataProtection" : "I have read and agree the <a target='_blank' rel='noopener noreferrer'  href='https://seedforward.com/about/seedx/datenschutzerklaerung-seedx/'>privacy policy</a>.",
+  "send" : "Send result",
+  "finePrint" : "* Warranty for the results is excluded, because they can deviate due to location and weather conditions."
+}
