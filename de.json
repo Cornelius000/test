@@ -18,5 +18,8 @@
   "print" : "Druckversion per E-Mail zusenden:",
   "dataProtection" : "Ich habe die <a target='_blank' rel='noopener noreferrer'  href='https://seedforward.com/de/about/seedx/datenschutzerklaerung-seedx/''>Datenschutzerklärung</a> gelesen und stimme ihr zu.</label></p><br>.",
   "send" : "Ergebnis senden",
-  "finePrint" : "* Gewährleistung für die Angaben ausgeschlossen, da die Ergebnisse standort- und witterungsbedingt abweichen können."
+  "finePrint" : "* Gewährleistung für die Angaben ausgeschlossen, da die Ergebnisse standort- und witterungsbedingt abweichen können.",
+  "emailMessage": "Ergebnis wurde an die angegebene Adresse versendet.",
+  "emailHeader": "Ihre Kalkulation mit GRAINGUARD®",
+  "fileName": "Ihre Kalkulation.pdf"
 }
