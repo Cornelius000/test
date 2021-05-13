@@ -1,67 +1,67 @@
 [
   {
     name: "Alex",
-    amount: "14.60"
+    amount: 14.60
   },
   {
     name: "Bernd",
-    amount: "29.20"
+    amount: 29.20
   },
   {
     name: "Carlos",
-    amount: "16.50"
+    amount: 16.50
   },
   {
     name: "Freddy",
-    amount: "2.30"
+    amount: 2.30
   },
   {
     name: "Jan",
-    amount: "18.80"
+    amount: 18.80
   },
   {
     name: "Jonas",
-    amount: "17.00"
+    amount: 17.00
   },
   {
     name: "Carlos",
-    amount: "16.50"
+    amount: 16.50
   },
   {
     name: "Carlos",
-    amount: "16.50"
+    amount: 16.50
   },
   {
     name: "Joris",
-    amount: "6.90"
+    amount: 6.90
   },
   {
     name: "Julius",
-    amount: "0.00"
+    amount: 0.00
   },
   {
     name: "Lennart",
-    amount: "38.75"
+    amount: 38.75
   },
   {
     name: "Matze",
-    amount: "22.30"
+    amount: 22.30
   },
   {
     name: "Maxi",
-    amount: "15.60"
+    amount: 15.60
   },
   {
     name: "Menni",
-    amount: "13.70"
+    amount: 13.70
   },
   {
     name: "Pieninck",
-    amount: "20.60"
+    amount: 20.60
   },
   {
     name: "Thorben",
-    amount: "12.30"
+    amount: 12.30
   },
   
 ]
