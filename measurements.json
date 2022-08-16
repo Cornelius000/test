@@ -1,0 +1,26 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "LineString",
+				"coordinates": [
+					[
+						1.411299992650032,
+						1.4564580025129317,
+						0.3286680112876894
+					],
+					[
+						1.7103160012788772,
+						1.2260859996893405,
+						0.3306379999880049
+					]
+				]
+			},
+			"properties": {
+				"name": "Brustbreite"
+			}
+		}
+	]
+}
